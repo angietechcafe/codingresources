@@ -8,6 +8,7 @@
 # Coding Practice
 - [Go language Tour: Beginner - Intermediate](http://tour.golang.org/welcome/1)
 - [Hackerrank](https://www.hackerrank.com)
+- [Academy RPA UiPath Beginner](https://academy.uipath.com/learn/course/external/view/elearning/638/RPAStarterTraining?utm_source=girls-who-code&utm_medium=link&utm_campaign=ET19ACD&utm_term=womenwhocode)
 
 # Git
 - [Atlassian Git Tutorials](https://www.atlassian.com/git)
