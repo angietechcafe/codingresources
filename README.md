@@ -5,6 +5,9 @@
 # Codecademy
 - [Codecademy Beginner](https://www.codecademy.com)
 
+# Coding Practice
+- [Go language Tour: Beginner - Intermediate](http://tour.golang.org/welcome/1)
+
 # Git
 - [Atlassian Git Tutorials](https://www.atlassian.com/git)
 - [Git for Nondevelopers: Beginner to Intermediate](http://anitacheng.com/git-for-non-developers)
