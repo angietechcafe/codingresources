@@ -5,11 +5,13 @@
 
 # Coding Practice
 - [Codecademy Beginner](https://www.codecademy.com)
+- [Coder Projects: Beginner - Intermediate](http://googlecreativelab.github.io/coder-projects)
 - [Go language Tour: Beginner - Intermediate](http://tour.golang.org/welcome/1)
 - [Hackerrank](https://www.hackerrank.com)
 - [Academy RPA UiPath Beginner](https://academy.uipath.com/learn/course/external/view/elearning/638/RPAStarterTraining?utm_source=girls-who-code&utm_medium=link&utm_campaign=ET19ACD&utm_term=womenwhocode)
 - [5 Ways to Learn Code From The Comfort Of Your Browser](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser)
 - [5 more ways to start learning how to code right now for free](http://thenextweb.com/dd/2012/02/02/5-more-ways-to-start-learning-how-to-code-right-now-for-free)
+- [Free Online Coding Workshops](https://codesmith.io/coding-events)
 
 # Git
 - [Atlassian Git Tutorials](https://www.atlassian.com/git)
@@ -28,7 +30,17 @@
 # Python
 - [Automate the Boring Stuff with Python, Beginner](https://automatetheboringstuff.com)
 - [Coding Bat Problems: Beginner - Intermediate](http://codingbat.com/python)
+- [Codecademy Python: Beginner](https://www.codecademy.com/learn/learn-python-3)
+
+# Ruby
+- [Codecademy Ruby: Beginner - Intermediate](https://www.codecademy.com/catalog/language/ruby)
+
+# SQL
+- [Codecademy SQL: Beginner - Intermediate](https://www.codecademy.com/learn/learn-sql)
 
 # Web Development
+- [Codepen: Beginner - Intermediate](http://codepen.io)
+- [CodeSmith CSX JavaScript Learning Platform: Beginner - Intermediate](https://csx.codesmith.io)
 - [FreeCodeCamp: Beginner - Intermediate](http://www.freecodecamp.com)
 - [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
+- [Babel's ECMAScript 6 tutorial, Beginner](https://babeljs.io/docs/learn)
