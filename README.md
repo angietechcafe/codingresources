@@ -1,6 +1,6 @@
 <h1>Coding Resources</h1>
 
-<h3>Here are wonderful coding resources. Feel free to contribute, and please share this with your community, too.</h3>
+<h3>Here are wonderful coding resources. Feel free to contribute, and please share this with your communities, too.</h3>
 
 
 # Coding Practice
