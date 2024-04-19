@@ -2,10 +2,9 @@
 
 <h3>Here are wonderful coding resources. Feel free to contribute, and please share this with your community, too.</h3>
 
-# Codecademy
-- [Codecademy Beginner](https://www.codecademy.com)
 
 # Coding Practice
+- [Codecademy Beginner](https://www.codecademy.com)
 - [Go language Tour: Beginner - Intermediate](http://tour.golang.org/welcome/1)
 - [Hackerrank](https://www.hackerrank.com)
 - [Academy RPA UiPath Beginner](https://academy.uipath.com/learn/course/external/view/elearning/638/RPAStarterTraining?utm_source=girls-who-code&utm_medium=link&utm_campaign=ET19ACD&utm_term=womenwhocode)
