@@ -9,8 +9,8 @@
 - [Go language Tour: Beginner - Intermediate](http://tour.golang.org/welcome/1)
 - [Hackerrank](https://www.hackerrank.com)
 - [Academy RPA UiPath Beginner](https://academy.uipath.com/learn/course/external/view/elearning/638/RPAStarterTraining?utm_source=girls-who-code&utm_medium=link&utm_campaign=ET19ACD&utm_term=womenwhocode)
--[5 Ways to Learn Code From The Comfort Of Your Browser](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser)
--[5 more ways to start learning how to code right now for free](http://thenextweb.com/dd/2012/02/02/5-more-ways-to-start-learning-how-to-code-right-now-for-free)
+- [5 Ways to Learn Code From The Comfort Of Your Browser](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser)
+- [5 more ways to start learning how to code right now for free](http://thenextweb.com/dd/2012/02/02/5-more-ways-to-start-learning-how-to-code-right-now-for-free)
 
 # Git
 - [Atlassian Git Tutorials](https://www.atlassian.com/git)
